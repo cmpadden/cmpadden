@@ -1,4 +1,4 @@
-# Hello!
+# Hello! 👋
 
 I am a data engineer, web developer, and developer advocate!
 
