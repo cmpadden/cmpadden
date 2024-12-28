@@ -1,4 +1,4 @@
-# 👋
+# Hello! 👋
 
 I am a tinkerer who enjoys building things, whether that be in the data engineering ecosystem, embedded systems, web development, or something new.
 
@@ -17,9 +17,7 @@ I am a tinkerer who enjoys building things, whether that be in the data engineer
 [gu]: https://georgetown.edu
 [sila]: https://www.silasg.com
 
-[![Gmail](https://img.shields.io/badge/-Email-000?logo=gmail)](mailto:colton.padden+github@fastmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/coltonpadden)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/colton-padden/)
+---
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/46d5ade4-570b-470f-a98d-4f52b4dfcd64" height="250" />
