@@ -2,7 +2,7 @@
     <img alt="cmpadden.github.io banner" src="https://github.com/user-attachments/assets/0bfed11e-6365-4475-a1b3-48bcd09349b3">
     <br>
     <p>
-        Tinkerer who enjoys building&mdash;whether that be data pipelines, developer tools, embedded systems, websites, or something new.
+        Tinkerer who enjoys building&mdash;data pipelines, developer tools, embedded systems, websites, or something new.
     </p>
 </div>
 
