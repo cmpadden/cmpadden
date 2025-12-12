@@ -9,7 +9,7 @@
 ### Experience
 
 <details>
-    <summary>Developer Advocate, <a href="https://dagster.io" target="_blank">Dagster</a> 👈</summary>
+    <summary>Engineer, Developer Advocate, <a href="https://dagster.io" target="_blank">Dagster</a> 👈</summary>
     Building the modern data platform: integrations, educational content, and supporting the community.
 </details>
 
