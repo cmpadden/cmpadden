@@ -9,7 +9,7 @@
 ### Experience
 
 <details>
-    <summary>Engineer, Developer Advocate, <a href="https://dagster.io" target="_blank">Dagster</a> 👈</summary>
+    <summary>Software Engineer, Developer Advocate, <a href="https://dagster.io" target="_blank">Dagster Labs</a> 👈</summary>
     Building the modern data platform: integrations, educational content, and supporting the community.
 </details>
 
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-    <summary>Technical Consultant, <a href="https://www.silasg.com" target="_blank">Sila SG</a></summary>
+    <summary>Technical Consultant, <a href="https://www.silasg.com" target="_blank">Sila Solutions Group</a></summary>
     Supporting government agencies and financial institutions build data platforms and identity and access management solutions.
 </details>
 
